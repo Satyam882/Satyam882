@@ -1,5 +1,8 @@
 
+![web development](https://user-images.githubusercontent.com/113611345/213693478-dc744660-373a-4d29-bf8d-b588f96e6f76.gif)
+
 # 💫 About Me:
+
 I AM CURRENTLY WORKING ON STUDENT INFORMATION PORTAL <br>FOR MY COLLAGE .<br>I AM ALWAYS OPEN FOR OPEN-SOURCE CONTRIBUTION'S
 
 
