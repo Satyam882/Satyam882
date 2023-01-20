@@ -5,6 +5,7 @@
 
 I AM CURRENTLY WORKING ON STUDENT INFORMATION PORTAL <br>FOR MY COLLAGE .<br>I AM ALWAYS OPEN FOR OPEN-SOURCE CONTRIBUTION'S
 
+![application-development](https://user-images.githubusercontent.com/113611345/213694014-70f2a043-faa7-4e6f-ba79-d4a8a3bf0cda.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Satyam882) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-pandey-6040461aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCemwsXhRThOgm7PfcXaaow%3D%3D) 
